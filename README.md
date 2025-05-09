@@ -134,8 +134,8 @@ This module offers shared resources for the entire SDK and MCP tools:
 
 1.  Clone the repository:
     ```bash
-    git clone <https://github.com/pydoug/hackaton-sui>
-    cd <hackaton-sui>
+    git clone https://github.com/pydoug/hackaton-sui
+    cd hackaton-sui
     ```
 2.  Install dependencies:
     ```bash
