@@ -58,7 +58,6 @@ The SDK and MCP Gateway provide modules and tools for the following protocols:
     *   Transfer SUI and fungible tokens.
     *   Retrieve recent user transactions.
 *   **Module:** `src/protocols/mystensui/`
-*   **Detailed Docs:** (Refer to `docs/mystensui.md` if it exists and is maintained)
 
 ### 2. SpringSui (Liquid Staking)
 
@@ -68,7 +67,6 @@ The SDK and MCP Gateway provide modules and tools for the following protocols:
     *   Query user's LST details and balances.
     *   Discover available LST pools or configurations.
 *   **Module:** `src/protocols/springsui/`
-*   **Detailed Docs:** (Refer to `docs/springsui.md`)
 
 ### 3. Steamm Finance (AMM/DEX)
 
@@ -79,7 +77,6 @@ The SDK and MCP Gateway provide modules and tools for the following protocols:
     *   Get swap quotes and price impact.
     *   Discover liquidity pools and their details.
 *   **Module:** `src/protocols/steamm/`
-*   **Detailed Docs:** (Refer to `docs/steamm.md`)
 
 ### 4. Suilend (Lending & Borrowing)
 
@@ -91,8 +88,6 @@ The SDK and MCP Gateway provide modules and tools for the following protocols:
     *   Repay borrowed assets.
     *   View details of user obligations (loan/deposit positions).
 *   **Module:** `src/protocols/suilend/`
-*   **Detailed Docs:** (Refer to `docs/suilend.md`)
-
 ## Common Utilities Module (`src/common/`)
 
 This module offers shared resources for the entire SDK and MCP tools:
