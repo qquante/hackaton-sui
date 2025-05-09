@@ -1,9 +1,5 @@
 // Contents of src/common/common.types.ts
 
-// Generic wallet adapter type, can be re-used or extended by protocol-specific action files
-// This was already defined in mystenSui.actions.ts, but can be centralized here.
-// For now, we'll assume action files import it from mystenSui.actions.ts or define their own needs.
-
 /**
  * Represents a generic pagination structure if needed for API responses.
  */
