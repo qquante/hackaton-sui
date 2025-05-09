@@ -1,0 +1,46 @@
+# Dependencies
+node_modules/
+dist/
+coverage/
+docs/
+
+# Build files
+*.tsbuildinfo
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE settings
+.idea/
+.vscode/
+*.iml
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Other files to ignore
+*.txt
+
+# Ignore all markdown files
+*.md
+
+# But do not ignore README.md
+!README.md
