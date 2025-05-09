@@ -1,0 +1,12 @@
+{
+    "mcpServers": {
+      "sui-defi-protocol-gateway": {
+        "command": "node",
+        "args": [
+          "C:\\\\Users\\\\dougl\\\\Desktop\\\\hackaton-sui-overflow\\\\backup\\\\dist\\\\main.js"
+        ],
+        "cwd": "C:\\\\Users\\\\dougl\\\\Desktop\\\\hackaton-sui-overflow\\\\backup",
+        "env": {}
+      }
+    }
+  }
